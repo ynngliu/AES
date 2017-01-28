@@ -11,6 +11,10 @@ Automated Essay Scoring with Deep Learning
 * Output intermediate layers
 * Import the word embedding from outside
 * Freeze the word embedding layers
-* Add proper metrics to show the easiness of training process
+
+* Add proper metrics to evaluate the training process
 
 * Transfer learning using partially import and freeze layers
+* Train ICNALE, KAGGLE or the Combined dataset and learn to score the ept data
+
+* Fine tune hyper parameters
