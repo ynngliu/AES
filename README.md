@@ -9,8 +9,8 @@ Automated Essay Scoring with Deep Learning
 * Name each of the layers
 * Try importing only some of the layers
 * Output intermediate layers
-* Import the word embedding from outside
-* Freeze the word embedding layers
+* Import the word embedding from outside, Freeze or Trainable
+
 
 * Add proper metrics to evaluate the training process
 
