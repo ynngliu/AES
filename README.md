@@ -2,6 +2,7 @@
 Automated Essay Scoring with Deep Learning
 
 # Some things for next steps:
+* random permutation of the combined dataset
 * Add early stop callback
 * Smart checkpoint
 * Include the other way of exporting and saving model, which saves the weights together with the model architecture
