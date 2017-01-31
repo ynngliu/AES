@@ -11,6 +11,8 @@ Automated Essay Scoring with Deep Learning
 * Output intermediate layers
 * Import the word embedding from outside, Freeze or Trainable
 
+* Use fasttext
+* Add memory and attention
 
 * Add proper metrics to evaluate the training process
 
