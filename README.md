@@ -1,6 +1,8 @@
 # AES
 Automated Essay Scoring with Deep Learning
 
+Glove.6B can be downloaded at "http://nlp.stanford.edu/data/glove.6B.zip"
+
 # Some things for next steps:
 * random permutation of the combined dataset
 * Add early stop callback
